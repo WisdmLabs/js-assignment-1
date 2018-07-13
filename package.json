@@ -1,0 +1,11 @@
+{
+  "name": "js-confirmation-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "context-menu.js",
+  "scripts": {
+    "start": "static ."
+  },
+  "author": "Wisdmlabs",
+  "license": "ISC"
+}
