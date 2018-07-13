@@ -1,6 +1,12 @@
+## Instructions 
+
+1.Fork this github repository for writing code and send us link
+
+
+### Challenge 1
+
 TODO:
 - [] The task must be completed in the given time frame.
-- [] You cannot use any js libraries for this task except jQuery and bootstrap
 - [] You have to develop an events management page where,
   - [] user will login to your app
   - [] There should be an "add event" button which should contain 
@@ -24,3 +30,23 @@ TODO:
   - [] Session should be available in the browser until the user logs out.
   - [] Listing of events should look something like shown below, but with better UI.
     - [] ![Alt text](/images/FullCalendar.png?raw=true "Events Listing")
+
+
+### Evaluation
+
+- Our goal is to find answers to those questions:
+
+- Do you understand the JavaScript language and more in general web technologies?
+
+- Can you judge which library/framework is the best fit for a job and use it correctly?
+
+- Can you design interfaces that are clear and easy to use?
+
+- Do you master your working environment?
+
+
+#### Due to the limited time consider the followings:
+
+It is NOT important to have a fully functional application at the end.
+
+We'll develop just for the latest version of Google Chrome.
