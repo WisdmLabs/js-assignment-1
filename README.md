@@ -2,30 +2,28 @@
 
 - Fork this github repository for writing code and send us link
 - Commit your changes periodically during development and update the todos in the readme by changing [ ] to [x] after every respective task is completed.
-- Maintaining [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) will be a plus.
 
-
-### Challenge 1
+### Challenge
 
 TODO:
 - You have to develop an events management page where,
-  - [ ] user will login to your app
-  - [ ] There should be an "add event" button which should contain 
-    - [ ] event name
-    - [ ] event description
-    - [ ] event start date (Calendar picker)
-    - [ ] event end date (Calendar picker)
-    - [ ] event start time (time picker)
-    - [ ] event end time (time picker)
-    - [ ] Set priority for events .
+  - [ ] User will login to your app
+  - [ ] There should be an "Add event" button which should contain 
+    - [ ] Event name
+    - [ ] Event description
+    - [ ] Event start date (Calendar picker)
+    - [ ] Event end date (Calendar picker)
+    - [ ] Event start time (time picker)
+    - [ ] Event end time (time picker)
+    - [ ] Set priority for events
      - [ ] User should see the events of the day based on the priority set for the event.
-       - [ ] while listing the events of the day the highest priority events should show on the top with assigned priortiy color (red for high , yellow for medium, green for low)
+       - [ ] While listing the events of the day the highest priority events should show on the top with assigned priortiy color (red for high , yellow for medium, green for low)
        - [ ] The priorty events should also be sorted based on time.
    - [ ] Add labels (suppose user is adding a company event,user should be able to add new label for that event i.e company or select from the existing list of labels already created. These labels will be used to filter the events according to the labels tagged.)
-   - [ ] event end time (Calendar picker)
-   - [ ] all day long event check box
-      - [ ] start time and end time will be disabled if this checkbox is checked
-      - [ ] If the event is more than one day, The checkbox should be disab 
+   - [ ] Event end time (Calendar picker)
+   - [ ] All day long event check box
+      - [ ] Start time and end time will be disabled if this checkbox is checked
+      - [ ] If the event is more than one day, The checkbox should be disabled
   - [ ] User can modify the event
   - [ ] User can delete the event
   - [ ] Session should be available in the browser until the user logs out.
@@ -46,7 +44,7 @@ Our goal is to find answers to those questions:
 - Do you master your working environment?
 
 
-#### Due to the limited time consider the followings:
+#### Due to the limited time consider the followings
 
 - It is NOT important to have a fully functional application at the end.
 
