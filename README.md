@@ -2,6 +2,7 @@
 
 - Fork this github repository for writing code and send us link
 - Commit your changes periodically during development and update the todos in the readme by changing [ ] to [x] after every respective task is completed.
+- Also add installation instructions in the readme for us to check your output.
 
 ### Challenge
 
